@@ -16,7 +16,7 @@ export default function Features() {
               <h3 className="text-2xl font-bold text-[#2B3674] mb-4">
                 Access to capital
               </h3>
-              <p className="text-[#A3AED0]">
+              <p className="text-[#2B3674]">
               There are nearly 10,000 businesses in Rwanda that need capital to grow. 
               A great idea shouldn’t fail because they can’t raise the money to develop into a profitable business.
               </p>
@@ -37,7 +37,7 @@ export default function Features() {
               <h3 className="text-2xl font-bold text-[#2B3674] mb-4">
                 Finance is Outdated
               </h3>
-              <p className="text-[#A3AED0]">
+              <p className="text-[#2B3674]">
               Existing financing options, such as private equity and venture capital, 
               can’t fund all of these businesses. That’s where we come in.
               </p>
@@ -59,7 +59,7 @@ export default function Features() {
               <h3 className="text-2xl font-bold text-[#2B3674] mb-4">
                 Democratizing Funding
               </h3>
-              <p className="text-[#A3AED0]">
+              <p className="text-[#2B3674]">
                 We believe that any driven entrepreneur with a great idea should be able to raise capital. 
                 We’ve built a platform where they can pitch directly to the crowd.
               </p>
