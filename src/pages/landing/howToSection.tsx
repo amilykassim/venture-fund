@@ -47,15 +47,15 @@ const HowToSection = () => {
         viewport={{ once: true }}
         className="w-full lg:w-3/4 text-center mx-auto mb-6 lg:mb-12"
       >
-        <h2 className="text-base font-segoe-bold leading-7 text-indigo-600">
+        <h2 className="text-1xl font-bold mb-4 text-indigo-600">
           Get started
         </h2>
         <div className="">
-          <p className="mt-2 text-3xl lg:text-4xl font-segoe-bold tracking-tight text-landing-primary">
+        <h3 className="text-2xl font-bold text-[#2B3674] mb-4">
             Start funding the future you deserve
-          </p>
+          </h3>
         </div>
-        <p className="mt-6 text-lg leading-8 text-gray-600 font-segoe-regular">
+        <p className="text-[#2B3674]">
           Now you have the chance to invest in startups early, Own a financial stake in the next big company.
         </p>
       </motion.div>
