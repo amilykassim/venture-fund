@@ -127,7 +127,7 @@ export function MainNavigation({ children }: RouteProps) {
         </NavigationMenu>
       </div>
       <div>{children}</div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

@@ -119,7 +119,7 @@ export function Footer() {
         </div>
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm">
-            &copy; 2025 Your Company. All rights reserved.
+            &copy; 2025 Ventura. All rights reserved.
           </p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link to="#" className="text-muted-foreground hover:text-primary">
