@@ -1,7 +1,7 @@
 import { BrowserRouter, Outlet, Routes } from "react-router";
 import { Route } from "react-router-dom";
-import Landing from "./pages/landing";
 import MainNavigation from "./components/sections/main-navigation";
+import Landinggg from "./pages/landing";
 
 function App() {
   return (
@@ -16,11 +16,11 @@ function App() {
               </MainNavigation>
             }
           >
-            <Route path="/" element={<Landing />} />
-          </Route>
-        </Routes>
-      </BrowserRouter>
-    </div>
+            <Route path="/" element={<Landinggg />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+    </div >
   );
 }
 
