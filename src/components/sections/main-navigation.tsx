@@ -11,8 +11,8 @@ import {
 } from "@/components/ui/navigation-menu";
 import { RouteProps } from "@/interfaces/ui.interfaces";
 import { NavLink } from "react-router";
-import { Footer } from "./footer";
 import { Button } from "../ui/button";
+import Footer from "@/pages/landing/footer";
 
 const components: { title: string; href: string; description: string }[] = [
   {
@@ -127,7 +127,7 @@ export function MainNavigation({ children }: RouteProps) {
         </NavigationMenu>
       </div>
       <div>{children}</div>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
